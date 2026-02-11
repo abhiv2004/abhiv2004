@@ -18,13 +18,14 @@
 - CSS3
 - JavaScript
 - React
-  Flutter
+- Flutter
 
 ### 🧩 Backend
 - C#
 - .NET Core
 - ASP.NET MVC
 - ASP.NET Web API
+- Node Js
 - Java
 
 ### 🛠 Tools
