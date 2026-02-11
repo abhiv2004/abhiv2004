@@ -2,9 +2,6 @@
 
 # 👋 Hi, I'm Abhishek Varma
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/118065970?v=4" width="180" alt="Profile Image"/>
-</p>
 
 ---
 
